@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html>
+
+<!-- header section -->
+
+
+		<head>
+		
+		<title>Narasapuram's Portfolio</title>
+		
+<!-- inline css -->
+
+		<style>
+		body {
+		background-color:#cbf3f0;
+		margin: 100px 300px;
+		padding:0px 0px;
+
+		}
+		
+		</style>
+		
+		</head>
+
+
+<!-- header close -->
+
+
+<!-- body section -->
+
+		<body>
+		
+	
+		
+		<div class="headc">
+		<h1>Rajasekhar Narasapuram</h1>
+		<p>Navodayan</p>
+		<p>Seeking a challenging position which provides me managerial assignments in the areas of operations Management/ Team Management with Organization of high reputation.</p>
+		</div>
+		
+		
+		<hr>
+<!----------------------------------------------------------------------->		
+		<div class="all">
+		
+<!-- education -->
+
+		<h2>Education:</h2>
+		<P><b>10<sup>th</sup> :</b></p>
+		<p><i>Jawahar Navodaya Vidyalaya</i>, Kadapa</p>
+		<p>Percentage : 87 </p>
+
+		<P><b>12<sup>th</sup> :</b></p>
+		<p><i>Jawahar Navodaya Vidyalaya</i>, Kadapa</p>
+		<p>Percentage : 88 </p>
+
+		<P><b>B.tech<sup>*</sup> :</b></p>
+		<p><i>Annamacharya Institute of Technology and Sciences</i>, Tirupathi</p>
+		<p>cgpa : 7.68 </p>
+
+		
+<!-- workshop and internships -->
+
+
+		<h2>Workshops & Internships :</h2>
+		
+		<p><b>Arduino using Scratch</b><p>
+		<p>March 2022</p>
+
+		<p><b>PCB Design</b><p>
+		<p>November 2022</p>
+
+		<p><b>Salesforce Developer Catalyst</b></p>
+		<p>December</p>
+
+
+<!-- technical skills -->
+	
+		<div class="tsc">
+
+		<h2>Technical Skills</h2>
+
+		<ul>
+		    <li>c</li>
+		    <li>c++</li>
+		    <li>java</li>
+		    <li>python</li>			
+		    <li>html</li>
+		    <li>css</li>
+		</ul>
+
+
+		</div>
+		
+		</div>
+<!----------------------------------------------------------------------->	
+	
+		<hr>
+
+		<div class="footc">
+		
+     	<h3><b>Contact :</b></h3>
+		<p>email : rajasekharnarasapuram02@gmail.com</p>
+		<p>contact number : 6305528781</p>
+		
+		</div>
+
+		</body>
+
+<!-- body close -->
+
+
+<!-- footer section -->
+
+		
+		<footer>
+
+	
+		</footer>
+		
+
+<!-- footer close -->
+
+</html>
